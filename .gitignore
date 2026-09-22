@@ -1,0 +1,17 @@
+# Datasets and generated artifacts
+data/
+outputs/
+*.pth
+*.pt
+*.onnx
+*.npy
+*.pkl
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Local configuration
+.env
